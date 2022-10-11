@@ -1,3 +1,42 @@
 body {
   background-color: #e1ffb1;
+  position: absolute;
+  margin: auto;
+  width: 100%;
+}
+
+h1 {
+  color: #425f57;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+nav {
+  text-align: center;
+}
+nav li {
+  list-style-type: none;
+  display: inline;
+  position: relative;
+  padding-right: 3em;
+}
+nav a {
+  text-decoration: none;
+  color: #749f82;
+  font-weight: bold;
+}
+
+main {
+  text-align: center;
+}
+main h3 {
+  font-size: 2rem;
+  color: #a8e890;
+}
+main p {
+  font-size: 1.2rem;
+}
+main ul {
+  list-style-position: inside;
+  margin-right: 3em;
 }/*# sourceMappingURL=style.css.map */
