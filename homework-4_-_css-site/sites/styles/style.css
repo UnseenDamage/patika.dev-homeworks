@@ -39,4 +39,10 @@ main p {
 main ul {
   list-style-position: inside;
   margin-right: 3em;
+}
+main ol {
+  list-style-position: inside;
+  margin-right: 3em;
+  font-size: 2rem;
+  font-weight: bold;
 }/*# sourceMappingURL=style.css.map */
